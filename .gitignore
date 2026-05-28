@@ -1,0 +1,19 @@
+# ─── Python ──────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+
+# ─── Dados (não versionar arquivos grandes) ───────
+dados/*.xlsx
+dados/*.csv
+relatorios/*.xlsx
+relatorios/*.png
+
+# ─── Logs ────────────────────────────────────────
+*.log
+
+# ─── IDEs ────────────────────────────────────────
+.vscode/
+.idea/
