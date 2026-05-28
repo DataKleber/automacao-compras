@@ -157,11 +157,6 @@ automacao-compras/
 
 ---
 
-## 📧 Contato
+## 📊 Dashboard — Visão Executiva
 
-**Kleber** — [GitHub](https://github.com/DataKleber)
-
----
-
-> 💡 *Projeto desenvolvido para demonstrar capacidade de trabalhar em toda a cadeia de dados:*  
-> *da simulação de dados brutos até o dashboard executivo — unindo visão de negócio e engenharia.*
+![Central de Compras — Visão Executiva](dashboard.png)
